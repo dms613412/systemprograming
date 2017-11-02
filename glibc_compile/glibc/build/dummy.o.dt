@@ -1,0 +1,17 @@
+/home/sysprog/sysprog2017/hw3/glibc/build/dummy.o: \
+ /home/sysprog/sysprog2017/hw3/glibc/build/dummy.c \
+ ../include/stdc-predef.h \
+ /home/sysprog/sysprog2017/hw3/glibc/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/sysprog/sysprog2017/hw3/glibc/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/sysprog/sysprog2017/hw3/glibc/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/sysprog/sysprog2017/hw3/glibc/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
